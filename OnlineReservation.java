@@ -1,4 +1,4 @@
-package OasisInfobyte;
+package OasisTask;
 
 /**
  *
